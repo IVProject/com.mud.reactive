@@ -1,0 +1,22 @@
+{
+    "name": "com.mud.reactive",
+    "version": "1.0.0",
+    "displayName": "Reactive",
+    "description": "Responsible for the convenient work with data in Firebase.\nWARNING: \nImport the Firebase.Firestore and Firebase.Database plugins before installing the package.",
+    "unity": "2018.3",
+    "keywords": [
+        "patern",
+        "attribute"
+    ],
+    "bugs": {
+        "url": "https://github.com/IVProject/com.mud.core/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "ssh://git@github.com:IVProject/com.mud.core.git"
+    },
+    "author": {
+        "name": "Vladyslav Ivaniuk",
+        "email": "slimprod.game@gmail.com"
+    }
+}
